@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+android:title="Add a new note"
+    android:id="@+id/Note_Add"
+    android:textSize="10dp"
+    android:textColor="#000000"
+    android:gravity="center"
+    android:textStyle="bold|italic"
+    android:shadowColor="#FFFFFF"
+    android:shadowDx="10"
+    android:shadowDy="10"
+    android:shadowRadius="8"
+>
+</item>
+</menu>
